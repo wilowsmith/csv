@@ -28,9 +28,7 @@ const Header = () => {
             </div>
             <div className="header-right">
                 <div className="header-name-container">
-                    <h5>
-                        Welcome, Will Smith
-                    </h5>
+                    <h5>Welcome, Will Smith</h5>
                 </div>
 
                 <div className="nav-button-container">
